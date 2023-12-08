@@ -1,0 +1,101 @@
+[
+{"type":"header","version":"4.8.5","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"bus booking system"},
+{"type":"table","name":"admin","database":"bus booking system","data":
+[
+{"AdminID":"1","Fname":"admin","Lname":"last","Email":"admin@gmail.com","Username":"admin","Password":"admin123"},
+{"AdminID":"2","Fname":"ankit","Lname":"mahato","Email":"ankit@gmail.com","Username":"ankit","Password":"ankit123"},
+{"AdminID":"3","Fname":"sanchit","Lname":"mishra","Email":"sanchit@gmail.com","Username":"sanchit","Password":"sanchit123"}
+]
+}
+,{"type":"table","name":"booking","database":"bus booking system","data":
+[
+{"Booking_id":"3","user":"king","Date":"2022-05-04 13:04:38","Bus_id":"15","Seats_no":"2","Total_fare":"2200","Bank":"SBI","Payment_method":"Net Banking"},
+{"Booking_id":"4","user":"boss","Date":"2022-05-11 05:33:02","Bus_id":"18","Seats_no":"1","Total_fare":"350","Bank":"BOI","Payment_method":"Net Banking"},
+{"Booking_id":"5","user":"kings","Date":"2022-05-13 08:22:06","Bus_id":"18","Seats_no":"1","Total_fare":"350","Bank":"BOB","Payment_method":"Net Banking"},
+{"Booking_id":"6","user":"aim","Date":"2022-05-22 08:07:32","Bus_id":"10","Seats_no":"2","Total_fare":"2000","Bank":"PNB","Payment_method":"Debit card"},
+{"Booking_id":"7","user":"ankit","Date":"2022-05-26 16:22:29","Bus_id":"1","Seats_no":"4","Total_fare":"3200","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"8","user":"ankit","Date":"2022-05-27 22:48:13","Bus_id":"0","Seats_no":"0","Total_fare":"0","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"9","user":"ankit","Date":"2022-05-27 22:50:43","Bus_id":"0","Seats_no":"0","Total_fare":"0","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"10","user":"ankit","Date":"2022-05-27 22:55:40","Bus_id":"0","Seats_no":"0","Total_fare":"0","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"11","user":"ankit","Date":"2022-05-27 23:11:04","Bus_id":"0","Seats_no":"0","Total_fare":"0","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"12","user":"ankit","Date":"2022-05-27 23:12:22","Bus_id":"1","Seats_no":"2","Total_fare":"1600","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"13","user":"ankit","Date":"2022-05-27 23:15:00","Bus_id":"2","Seats_no":"4","Total_fare":"3200","Bank":"HDFC","Payment_method":"Debit card"},
+{"Booking_id":"14","user":"ankit","Date":"2022-05-27 23:16:56","Bus_id":"2","Seats_no":"4","Total_fare":"3200","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"15","user":"ankit","Date":"2022-05-27 23:22:48","Bus_id":"1","Seats_no":"2","Total_fare":"1600","Bank":"HDFC","Payment_method":"Debit card"},
+{"Booking_id":"16","user":"ankit","Date":"2022-05-27 23:25:37","Bus_id":"2","Seats_no":"2","Total_fare":"1600","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"17","user":"ankit","Date":"2022-05-27 23:30:21","Bus_id":"2","Seats_no":"2","Total_fare":"1600","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"18","user":"ankit","Date":"2022-05-27 23:39:04","Bus_id":"2","Seats_no":"2","Total_fare":"1600","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"19","user":"ankit","Date":"2022-05-27 23:42:07","Bus_id":"7","Seats_no":"2","Total_fare":"1800","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"20","user":"ankit","Date":"2022-05-27 23:47:38","Bus_id":"3","Seats_no":"2","Total_fare":"1600","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"21","user":"ankit","Date":"2022-05-27 23:52:52","Bus_id":"3","Seats_no":"2","Total_fare":"1600","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"22","user":"ankit","Date":"2022-05-28 00:01:38","Bus_id":"3","Seats_no":"2","Total_fare":"1600","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"23","user":"ankit","Date":"2022-05-28 00:18:06","Bus_id":"3","Seats_no":"2","Total_fare":"1600","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"24","user":"ankit","Date":"2022-05-28 00:40:40","Bus_id":"3","Seats_no":"1","Total_fare":"800","Bank":"Axis","Payment_method":"Debit card"},
+{"Booking_id":"25","user":"ankit","Date":"2022-05-28 00:54:18","Bus_id":"3","Seats_no":"1","Total_fare":"800","Bank":"SBI","Payment_method":"Debit card"},
+{"Booking_id":"26","user":"ankit","Date":"2022-05-28 00:55:24","Bus_id":"6","Seats_no":"4","Total_fare":"3400","Bank":"ICICI","Payment_method":"Net Banking"},
+{"Booking_id":"27","user":"ankit","Date":"2022-05-28 00:57:33","Bus_id":"6","Seats_no":"2","Total_fare":"1700","Bank":"SBI","Payment_method":"Debit card"},
+{"Booking_id":"28","user":"ankit","Date":"2022-05-28 00:58:41","Bus_id":"3","Seats_no":"2","Total_fare":"1600","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"29","user":"ankit","Date":"2022-05-28 01:00:28","Bus_id":"3","Seats_no":"1","Total_fare":"800","Bank":"SBI","Payment_method":"Debit card"},
+{"Booking_id":"30","user":"ankit","Date":"2022-05-29 12:17:53","Bus_id":"4","Seats_no":"1","Total_fare":"850","Bank":"SBI","Payment_method":"Debit card"},
+{"Booking_id":"31","user":"ankit","Date":"2022-05-29 12:23:31","Bus_id":"4","Seats_no":"3","Total_fare":"2550","Bank":"HDFC","Payment_method":"Net Banking"},
+{"Booking_id":"32","user":"ankit","Date":"2022-05-29 12:24:59","Bus_id":"7","Seats_no":"1","Total_fare":"900","Bank":"ICICI","Payment_method":"Net Banking"},
+{"Booking_id":"33","user":"","Date":"2022-05-29 21:49:53","Bus_id":"4","Seats_no":"1","Total_fare":"850","Bank":"HDFC","Payment_method":"Debit card"},
+{"Booking_id":"34","user":"ankit","Date":"2022-05-29 21:50:48","Bus_id":"4","Seats_no":"1","Total_fare":"850","Bank":"SBI","Payment_method":"Debit card"},
+{"Booking_id":"35","user":"ankit","Date":"2022-05-29 21:52:44","Bus_id":"3","Seats_no":"4","Total_fare":"3200","Bank":"HDFC","Payment_method":"Net Banking"},
+{"Booking_id":"36","user":"ankit","Date":"2022-05-29 22:04:24","Bus_id":"3","Seats_no":"4","Total_fare":"3200","Bank":"SBI","Payment_method":"Net Banking"},
+{"Booking_id":"37","user":"ankit","Date":"2022-05-29 22:07:33","Bus_id":"3","Seats_no":"4","Total_fare":"3200","Bank":"HDFC","Payment_method":"Net Banking"},
+{"Booking_id":"38","user":"ankit","Date":"2022-05-29 22:12:32","Bus_id":"8","Seats_no":"1","Total_fare":"900","Bank":"HDFC","Payment_method":"Debit card"},
+{"Booking_id":"39","user":"ankit","Date":"2022-05-29 22:13:13","Bus_id":"8","Seats_no":"1","Total_fare":"900","Bank":"HDFC","Payment_method":"Net Banking"},
+{"Booking_id":"40","user":"ankit","Date":"2022-05-29 22:19:52","Bus_id":"8","Seats_no":"2","Total_fare":"1800","Bank":"ICICI","Payment_method":"Net Banking"},
+{"Booking_id":"41","user":"ankit","Date":"2022-05-29 22:22:06","Bus_id":"8","Seats_no":"2","Total_fare":"1800","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"42","user":"ankit","Date":"2022-05-29 22:27:17","Bus_id":"8","Seats_no":"2","Total_fare":"1800","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"43","user":"ankit","Date":"2022-05-29 22:27:53","Bus_id":"2","Seats_no":"2","Total_fare":"1600","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"44","user":"ankit","Date":"2022-05-29 22:29:39","Bus_id":"2","Seats_no":"2","Total_fare":"1600","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"45","user":"ankit","Date":"2022-05-29 22:30:32","Bus_id":"2","Seats_no":"2","Total_fare":"1600","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"46","user":"ankit","Date":"2022-05-29 22:31:53","Bus_id":"2","Seats_no":"2","Total_fare":"1600","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"47","user":"ankit","Date":"2022-05-29 22:42:27","Bus_id":"2","Seats_no":"2","Total_fare":"1600","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"48","user":"ankit","Date":"2022-05-29 22:42:34","Bus_id":"2","Seats_no":"2","Total_fare":"1600","Bank":"PNB","Payment_method":"Net Banking"},
+{"Booking_id":"49","user":"ankit","Date":"2022-05-29 22:43:23","Bus_id":"6","Seats_no":"1","Total_fare":"850","Bank":"PNB","Payment_method":"Net Banking"}
+]
+}
+,{"type":"table","name":"bus","database":"bus booking system","data":
+[
+{"Id":"1","Name":"Sri RAM Travels","Origin":"TATA","Destination":"Ranchi","Seats":"0","Arrival_time":"10:00:00","Departure_time":"16:00:00","Date":"2017-09-10","Fare":"800"},
+{"Id":"2","Name":"ABC travels","Origin":"TATA","Destination":"Ranchi","Seats":"-8","Arrival_time":"10:00:00","Departure_time":"16:00:00","Date":"2015-10-17","Fare":"800"},
+{"Id":"3","Name":"ABC travels","Origin":"TATA","Destination":"Ranchi","Seats":"-3","Arrival_time":"10:00:00","Departure_time":"16:00:00","Date":"2015-10-18","Fare":"800"},
+{"Id":"4","Name":"Sr travels","Origin":"TATA","Destination":"Ranchi","Seats":"5","Arrival_time":"12:00:00","Departure_time":"19:00:00","Date":"0000-00-00","Fare":"850"},
+{"Id":"5","Name":"Sr travels","Origin":"TATA","Destination":"Ranchi","Seats":"12","Arrival_time":"12:00:00","Departure_time":"19:00:00","Date":"2015-10-17","Fare":"850"},
+{"Id":"6","Name":"Sr travels","Origin":"TATA","Destination":"Ranchi","Seats":"13","Arrival_time":"12:00:00","Departure_time":"19:00:00","Date":"2015-10-18","Fare":"850"},
+{"Id":"7","Name":"Rocky travels","Origin":"TATA","Destination":"Ranchi","Seats":"9","Arrival_time":"14:00:00","Departure_time":"21:00:00","Date":"2015-10-17","Fare":"900"},
+{"Id":"8","Name":"Rocky travels","Origin":"TATA","Destination":"Ranchi","Seats":"8","Arrival_time":"14:00:00","Departure_time":"21:00:00","Date":"2015-10-18","Fare":"900"},
+{"Id":"9","Name":"lolly travels","Origin":"TATA","Destination":"Bhagalpur","Seats":"10","Arrival_time":"09:00:00","Departure_time":"18:00:00","Date":"2017-09-10","Fare":"1000"},
+{"Id":"10","Name":"lolly travels","Origin":"TATA","Destination":"Bhagalpur","Seats":"12","Arrival_time":"09:00:00","Departure_time":"18:00:00","Date":"2015-10-17","Fare":"1000"},
+{"Id":"11","Name":"lolly travels","Origin":"TATA","Destination":"Bhagalpur","Seats":"23","Arrival_time":"09:00:00","Departure_time":"18:00:00","Date":"2015-10-18","Fare":"1000"},
+{"Id":"12","Name":"Patel travels","Origin":"TATA","Destination":"Bhagalpur","Seats":"8","Arrival_time":"07:00:00","Departure_time":"16:00:00","Date":"2017-09-10","Fare":"1200"},
+{"Id":"13","Name":"Patel travels","Origin":"TATA","Destination":"Bhagalpur","Seats":"11","Arrival_time":"07:00:00","Departure_time":"16:00:00","Date":"2015-10-18","Fare":"1200"},
+{"Id":"14","Name":"Sbt travels","Origin":"TATA","Destination":"Bhagalpur","Seats":"7","Arrival_time":"14:00:00","Departure_time":"23:00:00","Date":"2017-09-10","Fare":"1100"},
+{"Id":"15","Name":"Sbt travels","Origin":"TATA","Destination":"Bhagalpur","Seats":"14","Arrival_time":"14:00:00","Departure_time":"23:00:00","Date":"2015-10-17","Fare":"1100"},
+{"Id":"16","Name":"Sbt travels","Origin":"TATA","Destination":"Bhagalpur","Seats":"25","Arrival_time":"14:00:00","Departure_time":"23:00:00","Date":"2015-10-18","Fare":"1100"},
+{"Id":"18","Name":"Vijaya travels","Origin":"TATA","Destination":"Dhanbad","Seats":"8","Arrival_time":"09:00:00","Departure_time":"04:00:00","Date":"2017-09-10","Fare":"350"},
+{"Id":"19","Name":"ABC travels","Origin":"Ranchi","Destination":"TATA","Seats":"10","Arrival_time":"04:00:00","Departure_time":"10:00:00","Date":"2017-09-10","Fare":"800"},
+{"Id":"20","Name":"ABC travels","Origin":"Ranchi","Destination":"TATA","Seats":"11","Arrival_time":"04:00:00","Departure_time":"10:00:00","Date":"2015-10-17","Fare":"800"},
+{"Id":"21","Name":"ABC travels","Origin":"Ranchi","Destination":"TATA","Seats":"12","Arrival_time":"04:00:00","Departure_time":"10:00:00","Date":"2015-10-18","Fare":"800"},
+{"Id":"22","Name":"Sr travels","Origin":"Ranchi","Destination":"TATA","Seats":"9","Arrival_time":"03:00:00","Departure_time":"09:00:00","Date":"2017-09-10","Fare":"850"},
+{"Id":"23","Name":"Sr travels","Origin":"Ranchi","Destination":"TATA","Seats":"10","Arrival_time":"03:00:00","Departure_time":"09:00:00","Date":"2015-10-17","Fare":"850"},
+{"Id":"24","Name":"Sr travels","Origin":"Ranchi","Destination":"TATA","Seats":"12","Arrival_time":"03:00:00","Departure_time":"09:00:00","Date":"2015-10-18","Fare":"850"},
+{"Id":"25","Name":"lolly travels","Origin":"Bhagalpur","Destination":"TATA","Seats":"5","Arrival_time":"01:00:00","Departure_time":"08:00:00","Date":"2017-09-10","Fare":"1000"},
+{"Id":"26","Name":"lolly travels","Origin":"Bhagalpur","Destination":"TATA","Seats":"11","Arrival_time":"01:00:00","Departure_time":"08:00:00","Date":"2015-10-17","Fare":"1000"},
+{"Id":"27","Name":"lolly travels","Origin":"Bhagalpur","Destination":"TATA","Seats":"20","Arrival_time":"01:00:00","Departure_time":"08:00:00","Date":"2015-10-18","Fare":"1000"},
+{"Id":"28","Name":"lolly travels","Origin":"Dhanbad","Destination":"TATA","Seats":"10","Arrival_time":"02:00:00","Departure_time":"07:00:00","Date":"2017-09-10","Fare":"350"},
+{"Id":"29","Name":"lolly travels","Origin":"Dhanbad","Destination":"TATA","Seats":"20","Arrival_time":"02:00:00","Departure_time":"07:00:00","Date":"2015-10-17","Fare":"350"},
+{"Id":"30","Name":"lolly travels","Origin":"Dhanbad","Destination":"TATA","Seats":"24","Arrival_time":"02:00:00","Departure_time":"07:00:00","Date":"2015-10-18","Fare":"350"},
+{"Id":"31","Name":"","Origin":"","Destination":"","Seats":"0","Arrival_time":"00:00:00","Departure_time":"00:00:00","Date":"0000-00-00","Fare":"0"}
+]
+}
+,{"type":"table","name":"user","database":"bus booking system","data":
+[
+{"UserID":"14","Fname":"ankit","Lname":"mahato","Email":"ankit@gmail.com","Username":"ankit","Password":"12345","Timestamp":"2022-05-26 16:20:38","Security":"mehs"}
+]
+}
+]
